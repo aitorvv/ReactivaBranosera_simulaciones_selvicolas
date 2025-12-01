@@ -2,6 +2,10 @@
 
 Conjunto de documentos y resultados utilizados para simular distintos escenarios selvícolas en el marco del proyecto [Reactiva Brañosera](https://fundacion-biodiversidad.es/proyecto_prtr/investigacion-y-reactivacion-de-la-bioeconomia-forestal-en-los-terrenos-comunales-del-municipio-de-branosera-reactivabranosera/). 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17775166.svg)](https://doi.org/10.5281/zenodo.17775166)
+
+
+
 ![](./img/logo.jpeg)
 
 ---
